@@ -13,3 +13,7 @@ This app contains a set of examples of Turing Machines written in Elixir. All th
   ```elixir
   TuringMachine.BinaryNumberIncrementer.increment("101") # "110"
   ```
+  
+  ```elixir
+  TuringMachine.BinaryNumberIncrementer.increment("1110011") # "1110100"
+  ```
