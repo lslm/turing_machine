@@ -1,3 +1,6 @@
+teste github
+
+
 # Turing Machine examples
 
 This app contains a set of examples of Turing Machines written in Elixir. All the examples can be found inside the `TuringMachine` module.
